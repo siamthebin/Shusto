@@ -1,8 +1,7 @@
 {
   "buildCommand": "next build",
-  "installCommand": "pnpm install --no-frozen-lockfile --force",
+  "installCommand": "pnpm install --no-frozen-lockfile",
   "env": {
-    "PNPM_HOME": "/mnt/ramdisk/pnpm",
-    "PNPM_STRICT_PEER_DEPENDENCIES": "false"
+    "PNPM_HOME": "/mnt/ramdisk/pnpm"
   }
 }
