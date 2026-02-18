@@ -1,0 +1,7 @@
+{
+  "buildCommand": "next build",
+  "installCommand": "pnpm install --no-frozen-lockfile",
+  "env": {
+    "PNPM_HOME": "/mnt/ramdisk/pnpm"
+  }
+}

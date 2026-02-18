@@ -1,0 +1,4 @@
+Cache buster timestamp: 2026-02-17T10:19:00Z
+Force rebuild: YES
+Reason: Removing astro@5.16.4 dependency
+Action: Clear all Vercel build cache and regenerate pnpm-lock.yaml
